@@ -4,7 +4,7 @@ npm install
 npm start
 
 ## Technology Used 
-### I have used React js .
+##### I have used React js .
 ### I have used Meterial ui  Css Framework
 I'm using OpenWeatherMap API to fetch data for the city.
 
